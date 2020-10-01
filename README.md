@@ -1,6 +1,6 @@
-# React COVID Tracker
+# React COVID-19 Tracker
 
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
+### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid-19 Tracker with JavaScript, NodeJS, and MongoDB?
 
 Check out our `Profit With JavaScript Course`    :point_down: 
 
